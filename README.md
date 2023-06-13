@@ -1,9 +1,12 @@
 Hi, I’m Azizul maqsud
+
 I’m a DevOps Engineers and interested in technological innovations
 
 I’m currently learning Machine Learning + Deep Learning = AI
 
 I’m looking to collaborate on DevOps + DevSecOps in high level
+
+
 
 Please reach me @ LinkedIn + YouTube + Twitter + Medium + Hashnode + GitHub
 
