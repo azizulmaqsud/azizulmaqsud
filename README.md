@@ -1,10 +1,10 @@
 Hi, I’m Azizul maqsud
 
-I’m a DevOps Engineers and interested in technological innovations
+I’m a AWS Admin & DevOps Engineers and interested in technological innovations
 
-I’m currently learning AI
+I’m currently learning AI in depth
 
-I’m looking to collaborate on DevOps & DevSecOps at a high level
+I’m looking to collaborate on AWS, DevOps & DevSecOps at a high level
 
 
 
