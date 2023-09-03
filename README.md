@@ -1,6 +1,6 @@
 Hi, I’m Azizul maqsud
 
-I’m an AWS Admin & DevOps Engineers and interested in technological innovations
+I’m an AWS Admin & DevOps Engineer and interested in technological innovations
 
 I’m currently learning AI with AWS in depth
 
