@@ -18,8 +18,6 @@ https://azizulmaqsud-1684501031000.hashnode.dev/
 
 https://medium.com/@azizulmaqsud
 
-https://twitter.com/Sohail2me
-
 https://github.com/azizulmaqsud
 
 
