@@ -8,7 +8,7 @@ I’m looking to collaborate on AWS, DevOps, MLOps & DevSecOps at a high level
 
 
 
-Please reach me out @ LinkedIn + YouTube + Twitter + Medium + Hashnode + GitHub
+Please reach me out @ LinkedIn + YouTube + Medium + Hashnode + GitHub
 
 https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg
 
